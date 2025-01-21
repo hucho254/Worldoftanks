@@ -1,0 +1,26 @@
+form{
+    padding: 10px;
+    color: aqua;
+    border: solid 20px  pink;
+    margin: 20px;
+}
+h2{
+    color: red;
+    font-size: xxx-large;
+    font-style: oblique;
+    font:2px bold;
+    font-family: "Franklin Gothic Medium Cond";
+}
+label{
+    padding: 10px;
+    font-style: unset;
+    font-family: "ui-monospace";
+    font-palette: dark;
+}
+input{
+    color: black;
+    border: solid 2px indianred;
+    background-color: #dbe3db;
+    font-family: Algerian;
+    font-style: initial;
+}

@@ -1,0 +1,35 @@
+.fruits{
+    background-color: red;
+    color: wheat;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid   black;
+    text-align: center;
+    image-rendering: high-quality;
+}
+.city{
+    background-color: wheat;
+    color: yellow;
+    padding: 20px;
+    border: 2px solid pink;
+    text-align: center;
+    margin: 20px;
+}
+.cars{
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+    border: aqua solid 2px;
+    text-align: center;
+    margin:20px ;
+}
+h2{
+    color:purple;
+    font-style: italic;
+    font-size: xx-large;
+    font-family:"Times New Roman"
+}
+
+.mycontainer{display: flex;
+    width: 33.33%;
+}

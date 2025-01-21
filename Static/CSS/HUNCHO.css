@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    text-align: left;
+    font-family: "Baskerville Old Face";
+    text-decoration: aqua;
+    text-decoration-color: beige;
+}
+h2{
+    color: red;
+    text-align: left;
+    font-family: "Nirmala Text Semilight";
+    text-underline: rebeccapurple;
+}
+td,th{
+    border:2px solid red;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    color: yellow;
+}
