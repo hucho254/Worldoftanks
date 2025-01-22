@@ -30,6 +30,7 @@ h2{
     font-family:"Times New Roman"
 }
 
-.mycontainer{display: flex;
+.mycontainer{
+    display: flow;
     width: 33.33%;
 }
